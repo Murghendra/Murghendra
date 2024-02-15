@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-<a href="https://github.com/drkostas">
+<a href="https://github.com/Murghendra">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Murghendra+Akki;Web+Developer+%7C+Computer+Science+Student+%7C;ML+%7C+Computer+Vision+%7C" alt="Typing SVG" />
 </a>
 <h1 align="center">Hi👋, I'm Murghendra</h1>
