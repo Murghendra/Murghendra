@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murghendra&label=Profile%20views&color=0e75b6&style=flat" alt="murghendra" /> </p>
 
-- 🔭 I’m currently working on **Blockchain using Ethereum Goerli faucets**
+- 🔭 I’m currently working on **Building modern UI of GPT3**
 
 - 🌱 I’m currently learning **WEB 3.0**
 
