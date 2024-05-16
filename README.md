@@ -36,18 +36,9 @@
     <th colspan="2">Python Miscellaneous Projects</th>
   </tr>
   <tr>
-    
+    <td><a href="https://github.com/Murghendra/JARVIS">JARVIS</a></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Murghendra/JARVIS">JARVIS</a>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Murghendra/Finger_volume_Tracker">Gesture Volume Controller</a>
-    </td>
-    <td></td>
+    <td><a href="https://github.com/Murghendra/Finger_volume_Tracker">Gesture Volume Controller</a></td>
   </tr>
 </table>
