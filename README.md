@@ -39,7 +39,6 @@
 
 |Title |
 |--|
-| [JARVIS](https://github.com/Murghendra/JARVIS) | <br> [Gesture Volume Controller](https://github.com/Murghendra/Finger_volume_Tracker) | <br>
-| 
-
+| [JARVIS](https://github.com/Murghendra/JARVIS) | <br> 
+| [Gesture Volume Controller](https://github.com/Murghendra/Finger_volume_Tracker) | <br>
 </td></tr> </table>
