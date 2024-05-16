@@ -36,7 +36,7 @@
     <th colspan="2">Python Miscellaneous Projects</th>
   </tr>
   <tr>
-    <td>Title</td>
+    
   </tr>
   <tr>
     <td>
