@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murghendra&show_icons=true&locale=en" alt="murghendra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murghendra&" alt="murghendra" /></p>
-
+<br>
 <table>
 <tr><th>Bots </th><th>Misc Projects </th></tr>
 <tr><td>
