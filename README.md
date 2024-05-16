@@ -32,13 +32,22 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murghendra&" alt="murghendra" /></p>
 
 <table>
-<tr><th>Python Miscellaneous Projects </th></tr>
-<tr><td>
-
-</td><td>
-
-|Title |
-|--|
-| [JARVIS](https://github.com/Murghendra/JARVIS) | <br> 
-| [Gesture Volume Controller](https://github.com/Murghendra/Finger_volume_Tracker) | <br>
-</td></tr> </table>
+  <tr>
+    <th colspan="2">Python Miscellaneous Projects</th>
+  </tr>
+  <tr>
+    <td>Title</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Murghendra/JARVIS">JARVIS</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Murghendra/Finger_volume_Tracker">Gesture Volume Controller</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
