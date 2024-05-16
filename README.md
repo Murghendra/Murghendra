@@ -31,25 +31,44 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murghendra&" alt="murghendra" /></p>
 
-<div style="display: flex;">
-  <table style="margin-right: 20px;">
-    <tr>
-      <th colspan="2">Python Miscellaneous Projects</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Murghendra/JARVIS">JARVIS</a></td>
-      <td><a href="https://github.com/Murghendra/Finger_volume_Tracker">Gesture Volume Controller</a></td>
-    </tr>
-  </table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Tables</title>
+  <style>
+    .table-container {
+      display: flex;
+    }
+    .table-container table {
+      margin-right: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="table-container">
+    <table>
+      <tr>
+        <th colspan="2">Python Miscellaneous Projects</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Murghendra/JARVIS">JARVIS</a></td>
+        <td><a href="https://github.com/Murghendra/Finger_volume_Tracker">Gesture Volume Controller</a></td>
+      </tr>
+    </table>
 
-  <table>
-    <tr>
-      <th colspan="2">Bots</th>
-    </tr>
-    <tr>
-      <td><a href="Link_to_your_bot_project">Your Bot Project</a></td>
-      <td><a href="Link_to_another_bot_project">Another Bot Project</a></td>
-    </tr>
-  </table>
-</div>
+    <table>
+      <tr>
+        <th colspan="2">Bots</th>
+      </tr>
+      <tr>
+        <td><a href="Link_to_your_bot_project">Your Bot Project</a></td>
+        <td><a href="Link_to_another_bot_project">Another Bot Project</a></td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
+
 
