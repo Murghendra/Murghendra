@@ -31,14 +31,24 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murghendra&" alt="murghendra" /></p>
 
-<table>
-  <tr>
-    <th colspan="2">Python Miscellaneous Projects</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Murghendra/JARVIS">JARVIS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Murghendra/Finger_volume_Tracker">Gesture Volume Controller</a></td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <table style="margin-right: 20px;">
+    <tr>
+      <th colspan="2">Python Miscellaneous Projects</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Murghendra/JARVIS">JARVIS</a></td>
+      <td><a href="https://github.com/Murghendra/Finger_volume_Tracker">Gesture Volume Controller</a></td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <th colspan="2">Bots</th>
+    </tr>
+    <tr>
+      <td><a href="Link_to_your_bot_project">Your Bot Project</a></td>
+      <td><a href="Link_to_another_bot_project">Another Bot Project</a></td>
+    </tr>
+  </table>
+</div>
