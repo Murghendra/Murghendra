@@ -38,14 +38,14 @@
 <tr><td>
 
 |Title | Stars | Technologies|
-|--|--|--|
+|--|
 | [JARVIS](https://github.com/Murghendra/JARVIS) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/> | ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
 | [Gesture_Volume_controller](https://github.com/Murghendra/Finger_volume_Tracker) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
 
 </td><td>
 
 |Title | Stars | Technologies|
-|--|--|--|
+|--|
 | [Optical Character Recognition](https://github.com/drkostas/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
 | [Mango Disease Prediction and Classification](https://github.com/drkostas/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
 
