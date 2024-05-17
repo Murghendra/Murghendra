@@ -46,8 +46,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Optical Character Recognition](https://github.com/drkostas/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
-| [Mango Disease Prediction and Classification](https://github.com/drkostas/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
+| [Optical Character Recognition](https://github.com/Murghendra/Optical-Character-Recognition) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Optical-Character-Recognition?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
+| [Mango Disease Prediction and Classification](https://github.com/Murghendra/Mango_Fruit_Disease_Detection) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Mango_Fruit_Disease_Detection?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
 
 
 </td></tr> </table>
