@@ -39,8 +39,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [JARVIS](https://github.com/Murghendra/JARVIS) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/JARVIS?style=flat-square&labelColor=black"/> | ![Py](https://img.shields.io/badge/Python-purple) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![openWeather](https://img.shields.io/badge/Open%20Weather-blue)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
-| [Gesture_Volume_controller](https://github.com/Murghendra/Finger_volume_Tracker) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Finger_volume_Tracker?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> |
+| [JARVIS](https://github.com/Murghendra/JARVIS) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/JARVIS?style=flat-square&labelColor=black"/> | ![Py](https://img.shields.io/badge/Python-purple) ![openWeather](https://img.shields.io/badge/Open%20Weather%20API-blue) <br>![API](https://img.shields.io/badge/Wikipidea%20API-yellow)<br>  |
+| [Gesture_Volume_controller](https://github.com/Murghendra/Finger_volume_Tracker) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Finger_volume_Tracker?style=flat-square&labelColor=black"/> | ![opencv](https://img.shields.io/badge/OpenCV-dark%20green) ![Py](https://img.shields.io/badge/Python-purple)<br> |
 
 </td><td>
 
