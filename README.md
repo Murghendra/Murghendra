@@ -47,7 +47,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Optical Character Recognition](https://github.com/Murghendra/Optical-Character-Recognition) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Optical-Character-Recognition?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-turquoise) ![cv](https://img.shields.io/badge/OpenCV-dark%20green) <br> ![cnn](https://img.shields.io/badge/CNN-brown) ![tf](https://img.shields.io/badge/TensorFlow-violet)|
-| [Mango Disease Prediction and Classification](https://github.com/Murghendra/Mango_Fruit_Disease_Detection) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Mango_Fruit_Disease_Detection?style=flat-square&labelColor=black"/> | ![py](https://img.shields.io/badge/Python-pink) <br> ![resnet](https://img.shields.io/badge/ResNet50-blue) ![vgg](https://img.shields.io/badge/VGG19-beige) <br> ![cv](https://img.shields.io/badge/OpenCV-purple)|
+| [Mango Disease Prediction and Classification](https://github.com/Murghendra/Mango_Fruit_Disease_Detection) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Mango_Fruit_Disease_Detection?style=flat-square&labelColor=black"/> | ![py](https://img.shields.io/badge/Python-pink) ![resnet](https://img.shields.io/badge/ResNet50-blue) <br> ![vgg](https://img.shields.io/badge/VGG19-beige) ![cv](https://img.shields.io/badge/OpenCV-purple)|
 
 
 </td></tr> </table>
