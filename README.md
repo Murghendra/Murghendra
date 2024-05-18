@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <a href="https://github.com/Murghendra">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Murghendra+Akki;Computer+Science+Student+%7C;Web+Developer+%7C+Blender+3D+%7C+UI+/+UX+Designer+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Murghendra+Akki;Computer+Science+Student;Web+Developer+%7C+Blender+3D+%7C+UI+/+UX+Designer" alt="Typing SVG" />
 </a>
 <h1 align="center">Hi👋, I'm Murghendra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
