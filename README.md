@@ -34,22 +34,20 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <table>
-<tr><th>Python Misc Projects </th><th>ML Projects </th></tr>
+<tr><th>ML Projects</th><th>Python Misc Projects</th></tr>
 <tr><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [JARVIS](https://github.com/Murghendra/JARVIS) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/JARVIS?style=flat-square&labelColor=black"/> | ![Py](https://img.shields.io/badge/Python-purple) ![openWeather](https://img.shields.io/badge/Open%20Weather%20API-blue) <br>![API](https://img.shields.io/badge/Wikipidea%20API-yellow)<br>  |
-| [Gesture_Volume_controller](https://github.com/Murghendra/Finger_volume_Tracker) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Finger_volume_Tracker?style=flat-square&labelColor=black"/> | ![opencv](https://img.shields.io/badge/OpenCV-dark%20green) ![Py](https://img.shields.io/badge/Python-purple)<br> |
-
-</td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
 | [Lung Tumor Segmentation using CT scans](https://github.com/Murghendra/Lung_Cancer_Segmentation_from_CT_Scans) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Optical-Character-Recognition?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-turquoise) ![cv](https://img.shields.io/badge/OpenCV-dark%20green) <br> ![tf](https://img.shields.io/badge/TensorFlow-violet) ![cnn](https://img.shields.io/badge/CNN-brown)|
 | [Optical Character Recognition](https://github.com/Murghendra/Optical-Character-Recognition) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Optical-Character-Recognition?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-turquoise) ![cv](https://img.shields.io/badge/OpenCV-dark%20green) <br> ![cnn](https://img.shields.io/badge/CNN-brown) ![tf](https://img.shields.io/badge/TensorFlow-violet)|
 | [Mango Disease Prediction and Classification](https://github.com/Murghendra/Mango_Fruit_Disease_Detection) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Mango_Fruit_Disease_Detection?style=flat-square&labelColor=black"/> | ![py](https://img.shields.io/badge/Python-pink) ![resnet](https://img.shields.io/badge/ResNet50-blue) <br> ![vgg](https://img.shields.io/badge/VGG19-beige) ![cv](https://img.shields.io/badge/OpenCV-purple)|
+</td><td>
 
+|Title | Stars | Technologies|
+|--|--|--|
+| [JARVIS](https://github.com/Murghendra/JARVIS) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/JARVIS?style=flat-square&labelColor=black"/> | ![Py](https://img.shields.io/badge/Python-purple) ![openWeather](https://img.shields.io/badge/Open%20Weather%20API-blue) <br>![API](https://img.shields.io/badge/Wikipidea%20API-yellow)<br>  |
+| [Gesture_Volume_controller](https://github.com/Murghendra/Finger_volume_Tracker) | <img alt="Stars" src="https://img.shields.io/github/stars/Murghendra/Finger_volume_Tracker?style=flat-square&labelColor=black"/> | ![opencv](https://img.shields.io/badge/OpenCV-dark%20green) ![Py](https://img.shields.io/badge/Python-purple)<br> |
 
 </td></tr> </table>
 
