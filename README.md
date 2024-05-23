@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Python, JS**
+- 💬 Ask me about **Python, Javascript**
 
 - 📫 How to reach me **murghendraakki10@gmail.com**
 
